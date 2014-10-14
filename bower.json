@@ -1,0 +1,17 @@
+{
+  "name": "bb_action_menu",
+  "version": "1.4",
+  "homepage": "https://github.com/buildingfirefoxos/bb_action_menu",
+  "authors": [
+    "the gaia team"
+  ],
+  "description": "Action menu - Firefox OS Building Blocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
